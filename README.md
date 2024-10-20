@@ -2,7 +2,7 @@
 - 👀 I’m interested in Crypto, Java, JS, Python.
 - 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on BlockChain
-- 📫 How to reach me sankalpsmehra@gmail.com
+- 📫 How to reach me sankalpsmehra123@gmail.com
 
 <!---
 sankalpsmehra123/sankalpsmehra123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
